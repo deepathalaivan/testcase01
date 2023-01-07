@@ -1,0 +1,23 @@
+{
+  "name": "testcase01",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/deepathalaivan/testcase01.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/deepathalaivan/testcase01/issues"
+  },
+  "homepage": "https://github.com/deepathalaivan/testcase01#readme",
+  "dependencies": {
+    "chromedriver": "^108.0.0",
+    "cucumber": "^6.0.7"
+  }
+}
