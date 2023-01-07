@@ -9,7 +9,8 @@ Then I Should see Sign In Header
 Scenario:Customer is displayed with Why Take AP Course link 
 Given: I am on the CollegeBoard website
 When I click on Why Take AP Course link
-Then I should see What Is AP? Header
+And  I click on How to get started link
+Then I should see FAQ's section
 
 @CollegeBoard @satLink
 Scenario:Customer is displayed with SAT link
