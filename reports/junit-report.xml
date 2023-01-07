@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites>
+    <testsuite name="as-a-cutomer-i-want-to-be-able-to-navigate-bank-of-america-page-so-that-i-can-see-the-details;customer-is-displayed-with-bank-of-america.com-customer-service-page" tests="3" failures="0" skipped="0">
+        <properties>
+            <property name="@BOA" value="true">
+            </property>
+            <property name="@contactUs" value="true">
+            </property>
+            <property name="@three" value="true">
+            </property>
+            <property name="URI" value="C:/Users/deepa/workspace/testcase01/features/boa.feature">
+            </property>
+        </properties>
+        <testcase name="Given I am on the &quot;BankOfAmerica&quot; website" classname="as-a-cutomer-i-want-to-be-able-to-navigate-bank-of-america-page-so-that-i-can-see-the-details;customer-is-displayed-with-bank-of-america.com-customer-service-page" time="1.5401995">
+        </testcase>
+        <testcase name="When I click on &quot;ContactUs&quot; link" classname="as-a-cutomer-i-want-to-be-able-to-navigate-bank-of-america-page-so-that-i-can-see-the-details;customer-is-displayed-with-bank-of-america.com-customer-service-page" time="0.000221">
+        </testcase>
+        <testcase name="Then I should see &quot;BankOfAmericaCustomerService&quot; header" classname="as-a-cutomer-i-want-to-be-able-to-navigate-bank-of-america-page-so-that-i-can-see-the-details;customer-is-displayed-with-bank-of-america.com-customer-service-page" time="4.0444065">
+        </testcase>
+    </testsuite>
+    <testsuite name="as-a-cutomer-i-want-to-be-able-to-navigate-bank-of-america-page-so-that-i-can-see-the-details;customer-is-displayed-with-small-business-resources-page" tests="3" failures="0" skipped="0">
+        <properties>
+            <property name="@BOA" value="true">
+            </property>
+            <property name="@businessLink" value="true">
+            </property>
+            <property name="@three" value="true">
+            </property>
+            <property name="URI" value="C:/Users/deepa/workspace/testcase01/features/boa.feature">
+            </property>
+        </properties>
+        <testcase name="Given I am on the &quot;BankOfAmerica&quot; website" classname="as-a-cutomer-i-want-to-be-able-to-navigate-bank-of-america-page-so-that-i-can-see-the-details;customer-is-displayed-with-small-business-resources-page" time="1.5577396">
+        </testcase>
+        <testcase name="When I click on &quot;SmallBusinessLink&quot; link" classname="as-a-cutomer-i-want-to-be-able-to-navigate-bank-of-america-page-so-that-i-can-see-the-details;customer-is-displayed-with-small-business-resources-page" time="0.0001507">
+        </testcase>
+        <testcase name="Then I should see &quot;SmallBusinessResourses&quot; header" classname="as-a-cutomer-i-want-to-be-able-to-navigate-bank-of-america-page-so-that-i-can-see-the-details;customer-is-displayed-with-small-business-resources-page" time="4.0295958">
+        </testcase>
+    </testsuite>
+    <testsuite name="as-a-cutomer-i-want-to-be-able-to-navigate-bank-of-america-page-so-that-i-can-see-the-details;customer-is-displayed-with-our-company-page" tests="3" failures="0" skipped="0">
+        <properties>
+            <property name="@BOA" value="true">
+            </property>
+            <property name="@aboutUs" value="true">
+            </property>
+            <property name="@three" value="true">
+            </property>
+            <property name="URI" value="C:/Users/deepa/workspace/testcase01/features/boa.feature">
+            </property>
+        </properties>
+        <testcase name="Given I am on the &quot;BankOfAmerica&quot; website" classname="as-a-cutomer-i-want-to-be-able-to-navigate-bank-of-america-page-so-that-i-can-see-the-details;customer-is-displayed-with-our-company-page" time="1.2954991">
+        </testcase>
+        <testcase name="When I click on &quot;AboutUs&quot; link" classname="as-a-cutomer-i-want-to-be-able-to-navigate-bank-of-america-page-so-that-i-can-see-the-details;customer-is-displayed-with-our-company-page" time="0.0002546">
+        </testcase>
+        <testcase name="Then I should see &quot;About&quot; header" classname="as-a-cutomer-i-want-to-be-able-to-navigate-bank-of-america-page-so-that-i-can-see-the-details;customer-is-displayed-with-our-company-page" time="4.7013786">
+        </testcase>
+    </testsuite>
+    <testsuite name="as-a-cutomer-i-want-to-be-able-to-navigate-bank-of-america-page-so-that-i-can-see-the-details;customer-is-displayed-with-home-loans-page" tests="3" failures="0" skipped="0">
+        <properties>
+            <property name="@BOA" value="true">
+            </property>
+            <property name="@homeLoans" value="true">
+            </property>
+            <property name="@three" value="true">
+            </property>
+            <property name="URI" value="C:/Users/deepa/workspace/testcase01/features/boa.feature">
+            </property>
+        </properties>
+        <testcase name="Given I am on the &quot;BankOfAmerica&quot; website" classname="as-a-cutomer-i-want-to-be-able-to-navigate-bank-of-america-page-so-that-i-can-see-the-details;customer-is-displayed-with-home-loans-page" time="1.2555966">
+        </testcase>
+        <testcase name="When I click on &quot;HomeLoansLink&quot; link" classname="as-a-cutomer-i-want-to-be-able-to-navigate-bank-of-america-page-so-that-i-can-see-the-details;customer-is-displayed-with-home-loans-page" time="0.0001437">
+        </testcase>
+        <testcase name="Then I should see &quot;Mortgage&quot; header" classname="as-a-cutomer-i-want-to-be-able-to-navigate-bank-of-america-page-so-that-i-can-see-the-details;customer-is-displayed-with-home-loans-page" time="4.0291781">
+        </testcase>
+    </testsuite>
+    <testsuite name="as-a-cutomer-i-want-to-be-able-to-navigate-bank-of-america-page-so-that-i-can-see-the-details;customer-is-displayed-with-credit-cards-page" tests="3" failures="0" skipped="0">
+        <properties>
+            <property name="@BOA" value="true">
+            </property>
+            <property name="@creditCards" value="true">
+            </property>
+            <property name="URI" value="C:/Users/deepa/workspace/testcase01/features/boa.feature">
+            </property>
+        </properties>
+        <testcase name="Given I am on the &quot;BankOfAmerica&quot; website" classname="as-a-cutomer-i-want-to-be-able-to-navigate-bank-of-america-page-so-that-i-can-see-the-details;customer-is-displayed-with-credit-cards-page" time="1.2477055">
+        </testcase>
+        <testcase name="When I click on &quot;CreditCardsLink&quot; link" classname="as-a-cutomer-i-want-to-be-able-to-navigate-bank-of-america-page-so-that-i-can-see-the-details;customer-is-displayed-with-credit-cards-page" time="0.0001167">
+        </testcase>
+        <testcase name="Then I should see &quot;ShopAllCreditCards&quot; header" classname="as-a-cutomer-i-want-to-be-able-to-navigate-bank-of-america-page-so-that-i-can-see-the-details;customer-is-displayed-with-credit-cards-page" time="4.0326422">
+        </testcase>
+    </testsuite>
+</testsuites>

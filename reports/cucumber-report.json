@@ -1,0 +1,378 @@
+[
+  {
+    "elements": [
+      {
+        "id": "as-a-cutomer-i-want-to-be-able-to-navigate-bank-of-america-page-so-that-i-can-see-the-details;customer-is-displayed-with-bank-of-america.com-customer-service-page",
+        "keyword": "Scenario",
+        "line": 3,
+        "name": "Customer is displayed with Bank Of America.com customer service page",
+        "steps": [
+          {
+            "arguments": [],
+            "keyword": "Given ",
+            "name": "I am on the \"BankOfAmerica\" website",
+            "result": {
+              "status": "passed",
+              "duration": 1540199500
+            },
+            "line": 4,
+            "match": {
+              "location": "C:\\Users\\deepa\\workspace\\testcase01\\step-definitions\\boa-steps.js:4"
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "When ",
+            "name": "I click on \"ContactUs\" link",
+            "result": {
+              "status": "passed",
+              "duration": 221000
+            },
+            "line": 5,
+            "match": {
+              "location": "C:\\Users\\deepa\\workspace\\testcase01\\step-definitions\\boa-steps.js:13"
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Then ",
+            "name": "I should see \"BankOfAmericaCustomerService\" header",
+            "result": {
+              "status": "passed",
+              "duration": 4044406500
+            },
+            "line": 6,
+            "match": {
+              "location": "C:\\Users\\deepa\\workspace\\testcase01\\step-definitions\\boa-steps.js:19"
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "After ",
+            "result": {
+              "status": "passed",
+              "duration": 16211397700
+            },
+            "hidden": true,
+            "match": {
+              "location": "C:\\Users\\deepa\\workspace\\testcase01\\runtime\\world.js:250"
+            }
+          }
+        ],
+        "tags": [
+          {
+            "name": "@BOA",
+            "line": 2
+          },
+          {
+            "name": "@contactUs",
+            "line": 2
+          },
+          {
+            "name": "@three",
+            "line": 2
+          }
+        ],
+        "type": "scenario"
+      },
+      {
+        "id": "as-a-cutomer-i-want-to-be-able-to-navigate-bank-of-america-page-so-that-i-can-see-the-details;customer-is-displayed-with-small-business-resources-page",
+        "keyword": "Scenario",
+        "line": 9,
+        "name": "Customer is displayed with small business resources page",
+        "steps": [
+          {
+            "arguments": [],
+            "keyword": "Given ",
+            "name": "I am on the \"BankOfAmerica\" website",
+            "result": {
+              "status": "passed",
+              "duration": 1557739600
+            },
+            "line": 10,
+            "match": {
+              "location": "C:\\Users\\deepa\\workspace\\testcase01\\step-definitions\\boa-steps.js:4"
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "When ",
+            "name": "I click on \"SmallBusinessLink\" link",
+            "result": {
+              "status": "passed",
+              "duration": 150700
+            },
+            "line": 11,
+            "match": {
+              "location": "C:\\Users\\deepa\\workspace\\testcase01\\step-definitions\\boa-steps.js:13"
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Then ",
+            "name": "I should see \"SmallBusinessResourses\" header",
+            "result": {
+              "status": "passed",
+              "duration": 4029595800
+            },
+            "line": 12,
+            "match": {
+              "location": "C:\\Users\\deepa\\workspace\\testcase01\\step-definitions\\boa-steps.js:19"
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "After ",
+            "result": {
+              "status": "passed",
+              "duration": 140283200
+            },
+            "hidden": true,
+            "match": {
+              "location": "C:\\Users\\deepa\\workspace\\testcase01\\runtime\\world.js:250"
+            }
+          }
+        ],
+        "tags": [
+          {
+            "name": "@BOA",
+            "line": 8
+          },
+          {
+            "name": "@businessLink",
+            "line": 8
+          },
+          {
+            "name": "@three",
+            "line": 8
+          }
+        ],
+        "type": "scenario"
+      },
+      {
+        "id": "as-a-cutomer-i-want-to-be-able-to-navigate-bank-of-america-page-so-that-i-can-see-the-details;customer-is-displayed-with-our-company-page",
+        "keyword": "Scenario",
+        "line": 16,
+        "name": "Customer is displayed with our company page",
+        "steps": [
+          {
+            "arguments": [],
+            "keyword": "Given ",
+            "name": "I am on the \"BankOfAmerica\" website",
+            "result": {
+              "status": "passed",
+              "duration": 1295499100
+            },
+            "line": 17,
+            "match": {
+              "location": "C:\\Users\\deepa\\workspace\\testcase01\\step-definitions\\boa-steps.js:4"
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "When ",
+            "name": "I click on \"AboutUs\" link",
+            "result": {
+              "status": "passed",
+              "duration": 254600
+            },
+            "line": 18,
+            "match": {
+              "location": "C:\\Users\\deepa\\workspace\\testcase01\\step-definitions\\boa-steps.js:13"
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Then ",
+            "name": "I should see \"About\" header",
+            "result": {
+              "status": "passed",
+              "duration": 4701378600
+            },
+            "line": 19,
+            "match": {
+              "location": "C:\\Users\\deepa\\workspace\\testcase01\\step-definitions\\boa-steps.js:19"
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "After ",
+            "result": {
+              "status": "passed",
+              "duration": 134488500
+            },
+            "hidden": true,
+            "match": {
+              "location": "C:\\Users\\deepa\\workspace\\testcase01\\runtime\\world.js:250"
+            }
+          }
+        ],
+        "tags": [
+          {
+            "name": "@BOA",
+            "line": 15
+          },
+          {
+            "name": "@aboutUs",
+            "line": 15
+          },
+          {
+            "name": "@three",
+            "line": 15
+          }
+        ],
+        "type": "scenario"
+      },
+      {
+        "id": "as-a-cutomer-i-want-to-be-able-to-navigate-bank-of-america-page-so-that-i-can-see-the-details;customer-is-displayed-with-home-loans-page",
+        "keyword": "Scenario",
+        "line": 23,
+        "name": "Customer is displayed with Home Loans page",
+        "steps": [
+          {
+            "arguments": [],
+            "keyword": "Given ",
+            "name": "I am on the \"BankOfAmerica\" website",
+            "result": {
+              "status": "passed",
+              "duration": 1255596600
+            },
+            "line": 24,
+            "match": {
+              "location": "C:\\Users\\deepa\\workspace\\testcase01\\step-definitions\\boa-steps.js:4"
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "When ",
+            "name": "I click on \"HomeLoansLink\" link",
+            "result": {
+              "status": "passed",
+              "duration": 143700
+            },
+            "line": 25,
+            "match": {
+              "location": "C:\\Users\\deepa\\workspace\\testcase01\\step-definitions\\boa-steps.js:13"
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Then ",
+            "name": "I should see \"Mortgage\" header",
+            "result": {
+              "status": "passed",
+              "duration": 4029178100
+            },
+            "line": 26,
+            "match": {
+              "location": "C:\\Users\\deepa\\workspace\\testcase01\\step-definitions\\boa-steps.js:19"
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "After ",
+            "result": {
+              "status": "passed",
+              "duration": 142635800
+            },
+            "hidden": true,
+            "match": {
+              "location": "C:\\Users\\deepa\\workspace\\testcase01\\runtime\\world.js:250"
+            }
+          }
+        ],
+        "tags": [
+          {
+            "name": "@BOA",
+            "line": 22
+          },
+          {
+            "name": "@homeLoans",
+            "line": 22
+          },
+          {
+            "name": "@three",
+            "line": 22
+          }
+        ],
+        "type": "scenario"
+      },
+      {
+        "id": "as-a-cutomer-i-want-to-be-able-to-navigate-bank-of-america-page-so-that-i-can-see-the-details;customer-is-displayed-with-credit-cards-page",
+        "keyword": "Scenario",
+        "line": 30,
+        "name": "Customer is displayed with Credit Cards page",
+        "steps": [
+          {
+            "arguments": [],
+            "keyword": "Given ",
+            "name": "I am on the \"BankOfAmerica\" website",
+            "result": {
+              "status": "passed",
+              "duration": 1247705500
+            },
+            "line": 31,
+            "match": {
+              "location": "C:\\Users\\deepa\\workspace\\testcase01\\step-definitions\\boa-steps.js:4"
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "When ",
+            "name": "I click on \"CreditCardsLink\" link",
+            "result": {
+              "status": "passed",
+              "duration": 116700
+            },
+            "line": 32,
+            "match": {
+              "location": "C:\\Users\\deepa\\workspace\\testcase01\\step-definitions\\boa-steps.js:13"
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Then ",
+            "name": "I should see \"ShopAllCreditCards\" header",
+            "result": {
+              "status": "passed",
+              "duration": 4032642200
+            },
+            "line": 33,
+            "match": {
+              "location": "C:\\Users\\deepa\\workspace\\testcase01\\step-definitions\\boa-steps.js:19"
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "After ",
+            "result": {
+              "status": "passed",
+              "duration": 121696700
+            },
+            "hidden": true,
+            "match": {
+              "location": "C:\\Users\\deepa\\workspace\\testcase01\\runtime\\world.js:250"
+            }
+          }
+        ],
+        "tags": [
+          {
+            "name": "@BOA",
+            "line": 29
+          },
+          {
+            "name": "@creditCards",
+            "line": 29
+          }
+        ],
+        "type": "scenario"
+      }
+    ],
+    "id": "as-a-cutomer-i-want-to-be-able-to-navigate-bank-of-america-page-so-that-i-can-see-the-details",
+    "keyword": "Feature",
+    "line": 1,
+    "name": "As a cutomer I want to be able to navigate Bank Of America page so that i can see the details",
+    "tags": [],
+    "uri": "C:/Users/deepa/workspace/testcase01/features/boa.feature"
+  }
+]
